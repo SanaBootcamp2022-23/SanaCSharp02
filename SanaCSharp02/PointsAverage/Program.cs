@@ -11,9 +11,9 @@ int FifthMark = int.Parse(Console.ReadLine());
 
 int summ = FirstMark+ SecondMark + ThirdMark + FourthMark + FifthMark;
 
-int avarage = summ / 5;
+int average = summ / 5;
 
-if (avarage >= 4)
-    Console.WriteLine($"Student avarage mark is {avarage} admission granted");
+if (average >= 4)
+    Console.WriteLine($"Student average mark is {average} admission granted");
 else
-    Console.WriteLine($"Student avarage mark is {avarage} access is denied");
+    Console.WriteLine($"Student average mark is {average} access is denied");

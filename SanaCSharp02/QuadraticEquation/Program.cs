@@ -1,4 +1,9 @@
-﻿Console.WriteLine("Програма для розв'язання квадратного рівняння");
+﻿using System.Text;
+
+Console.OutputEncoding = Encoding.UTF8;
+Console.InputEncoding = Encoding.UTF8;
+
+Console.WriteLine("Програма для розв'язання квадратного рівняння");
 
 System.Globalization.CultureInfo customCulture = (System.Globalization.CultureInfo)
         System.Threading.Thread.CurrentThread.CurrentCulture.Clone();
