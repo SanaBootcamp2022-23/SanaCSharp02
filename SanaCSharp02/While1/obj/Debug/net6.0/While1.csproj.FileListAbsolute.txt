@@ -1,0 +1,15 @@
+D:\Політех\Sana\SanaCSharp02\SanaCSharp02\While1\bin\Debug\net6.0\While1.exe
+D:\Політех\Sana\SanaCSharp02\SanaCSharp02\While1\bin\Debug\net6.0\While1.deps.json
+D:\Політех\Sana\SanaCSharp02\SanaCSharp02\While1\bin\Debug\net6.0\While1.runtimeconfig.json
+D:\Політех\Sana\SanaCSharp02\SanaCSharp02\While1\bin\Debug\net6.0\While1.dll
+D:\Політех\Sana\SanaCSharp02\SanaCSharp02\While1\bin\Debug\net6.0\While1.pdb
+D:\Політех\Sana\SanaCSharp02\SanaCSharp02\While1\obj\Debug\net6.0\While1.csproj.AssemblyReference.cache
+D:\Політех\Sana\SanaCSharp02\SanaCSharp02\While1\obj\Debug\net6.0\While1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Політех\Sana\SanaCSharp02\SanaCSharp02\While1\obj\Debug\net6.0\While1.AssemblyInfoInputs.cache
+D:\Політех\Sana\SanaCSharp02\SanaCSharp02\While1\obj\Debug\net6.0\While1.AssemblyInfo.cs
+D:\Політех\Sana\SanaCSharp02\SanaCSharp02\While1\obj\Debug\net6.0\While1.csproj.CoreCompileInputs.cache
+D:\Політех\Sana\SanaCSharp02\SanaCSharp02\While1\obj\Debug\net6.0\While1.dll
+D:\Політех\Sana\SanaCSharp02\SanaCSharp02\While1\obj\Debug\net6.0\refint\While1.dll
+D:\Політех\Sana\SanaCSharp02\SanaCSharp02\While1\obj\Debug\net6.0\While1.pdb
+D:\Політех\Sana\SanaCSharp02\SanaCSharp02\While1\obj\Debug\net6.0\While1.genruntimeconfig.cache
+D:\Політех\Sana\SanaCSharp02\SanaCSharp02\While1\obj\Debug\net6.0\ref\While1.dll
