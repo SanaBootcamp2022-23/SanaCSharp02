@@ -34,6 +34,6 @@ if (discr > 0)
 else if (discr == 0)
 {
     double x = (-b) / 2 * a;
-    Console.WriteLine($"\n Результат: X = {x}");
+    Console.WriteLine($"\n Результат: x = {x}");
 }
 else Console.WriteLine("\n Розв'язків немає");
