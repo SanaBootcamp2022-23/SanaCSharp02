@@ -1,0 +1,15 @@
+D:\Політех\Sana\SanaCSharp02\SanaCSharp02\PointsAverage\bin\Debug\net6.0\PointsAverage.exe
+D:\Політех\Sana\SanaCSharp02\SanaCSharp02\PointsAverage\bin\Debug\net6.0\PointsAverage.deps.json
+D:\Політех\Sana\SanaCSharp02\SanaCSharp02\PointsAverage\bin\Debug\net6.0\PointsAverage.runtimeconfig.json
+D:\Політех\Sana\SanaCSharp02\SanaCSharp02\PointsAverage\bin\Debug\net6.0\PointsAverage.dll
+D:\Політех\Sana\SanaCSharp02\SanaCSharp02\PointsAverage\bin\Debug\net6.0\PointsAverage.pdb
+D:\Політех\Sana\SanaCSharp02\SanaCSharp02\PointsAverage\obj\Debug\net6.0\PointsAverage.csproj.AssemblyReference.cache
+D:\Політех\Sana\SanaCSharp02\SanaCSharp02\PointsAverage\obj\Debug\net6.0\PointsAverage.GeneratedMSBuildEditorConfig.editorconfig
+D:\Політех\Sana\SanaCSharp02\SanaCSharp02\PointsAverage\obj\Debug\net6.0\PointsAverage.AssemblyInfoInputs.cache
+D:\Політех\Sana\SanaCSharp02\SanaCSharp02\PointsAverage\obj\Debug\net6.0\PointsAverage.AssemblyInfo.cs
+D:\Політех\Sana\SanaCSharp02\SanaCSharp02\PointsAverage\obj\Debug\net6.0\PointsAverage.csproj.CoreCompileInputs.cache
+D:\Політех\Sana\SanaCSharp02\SanaCSharp02\PointsAverage\obj\Debug\net6.0\PointsAverage.dll
+D:\Політех\Sana\SanaCSharp02\SanaCSharp02\PointsAverage\obj\Debug\net6.0\refint\PointsAverage.dll
+D:\Політех\Sana\SanaCSharp02\SanaCSharp02\PointsAverage\obj\Debug\net6.0\PointsAverage.pdb
+D:\Політех\Sana\SanaCSharp02\SanaCSharp02\PointsAverage\obj\Debug\net6.0\PointsAverage.genruntimeconfig.cache
+D:\Політех\Sana\SanaCSharp02\SanaCSharp02\PointsAverage\obj\Debug\net6.0\ref\PointsAverage.dll
