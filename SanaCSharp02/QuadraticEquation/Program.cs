@@ -8,20 +8,20 @@ double discrim, x1, x2;
 Console.WriteLine("Введіть числа для ров'язання квадратного рівняння:");
 
 Console.Write("a = ");
-a = int.Parse(Console.ReadLine());
+a = Convert.ToInt32(Console.ReadLine());
 
 while (a == 0)
 {
     Console.WriteLine("Значення {a} не може дорівнювати 0! Введіть інше значення:");
     Console.Write("a = ");
-    a = int.Parse(Console.ReadLine());
+    a = Convert.ToInt32(Console.ReadLine());
 }
 
 Console.Write("b = ");
-b = int.Parse(Console.ReadLine());
+b = Convert.ToInt32(Console.ReadLine());
 
 Console.Write("c = ");
-c = int.Parse(Console.ReadLine());
+c = Convert.ToInt32(Console.ReadLine());
 
 discrim = Math.Pow(b, 2) - (4 * a * c);
 
