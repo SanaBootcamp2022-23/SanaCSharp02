@@ -5,7 +5,7 @@ VisualStudioVersion = 17.1.32210.238
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QuadraticEquation", "QuadraticEquation\QuadraticEquation.csproj", "{2CCF3C7B-3A85-40E4-A8CC-474704640442}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PointsAvarage", "PointsAvarage\PointsAvarage.csproj", "{3B09EA0B-0F87-4AE6-A929-1DDB3F224D7E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PointsAverage", "PointsAvarage\PointsAverage.csproj", "{3B09EA0B-0F87-4AE6-A929-1DDB3F224D7E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
