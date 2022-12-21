@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuadraticEquation", "Quadra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwitchValues", "SwitchValues\SwitchValues.csproj", "{CA0E1C30-613E-46F9-AD90-9CDF239250F6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PointsAverage", "PointsAverage\PointsAverage.csproj", "{ABB4B80D-2969-4DE9-A8EA-460CC97C74FE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{CA0E1C30-613E-46F9-AD90-9CDF239250F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CA0E1C30-613E-46F9-AD90-9CDF239250F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CA0E1C30-613E-46F9-AD90-9CDF239250F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABB4B80D-2969-4DE9-A8EA-460CC97C74FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABB4B80D-2969-4DE9-A8EA-460CC97C74FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABB4B80D-2969-4DE9-A8EA-460CC97C74FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABB4B80D-2969-4DE9-A8EA-460CC97C74FE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
