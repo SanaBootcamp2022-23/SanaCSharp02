@@ -26,20 +26,13 @@ namespace While1
             int n = int.Parse(Console.ReadLine());
             
             double a = 0;
+            double b = 0;
+            double c = 0;
+
             for (int i = 1; i <= n; i++)
             {
                 a += Math.Pow(-1, i) / (2 * i + 1);
-            }
-
-            double b = 0;
-            for (int i = 1; i <= n; i++)
-            {
                 b += 1 + 1 / Math.Pow(i, 2);
-            }
-
-            double c = 0;
-            for (int i = 1; i <= n; i++)
-            {
                 c += factorial(i);
             }
 
