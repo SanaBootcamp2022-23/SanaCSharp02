@@ -43,6 +43,7 @@ switch (number)
     case 9:
         Console.WriteLine("Дев'ять");
         break;
-
-
-}
+    default:
+        Console.WriteLine("Невідоме значення: ");
+        break;
+} 
