@@ -1,0 +1,15 @@
+C:\Users\maxim\source\repos\SanaCSharp02\SanaCSharp02\PointsAverage\bin\Debug\net6.0\PointsAverage.exe
+C:\Users\maxim\source\repos\SanaCSharp02\SanaCSharp02\PointsAverage\bin\Debug\net6.0\PointsAverage.deps.json
+C:\Users\maxim\source\repos\SanaCSharp02\SanaCSharp02\PointsAverage\bin\Debug\net6.0\PointsAverage.runtimeconfig.json
+C:\Users\maxim\source\repos\SanaCSharp02\SanaCSharp02\PointsAverage\bin\Debug\net6.0\PointsAverage.dll
+C:\Users\maxim\source\repos\SanaCSharp02\SanaCSharp02\PointsAverage\bin\Debug\net6.0\PointsAverage.pdb
+C:\Users\maxim\source\repos\SanaCSharp02\SanaCSharp02\PointsAverage\obj\Debug\net6.0\PointsAverage.csproj.AssemblyReference.cache
+C:\Users\maxim\source\repos\SanaCSharp02\SanaCSharp02\PointsAverage\obj\Debug\net6.0\PointsAverage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxim\source\repos\SanaCSharp02\SanaCSharp02\PointsAverage\obj\Debug\net6.0\PointsAverage.AssemblyInfoInputs.cache
+C:\Users\maxim\source\repos\SanaCSharp02\SanaCSharp02\PointsAverage\obj\Debug\net6.0\PointsAverage.AssemblyInfo.cs
+C:\Users\maxim\source\repos\SanaCSharp02\SanaCSharp02\PointsAverage\obj\Debug\net6.0\PointsAverage.csproj.CoreCompileInputs.cache
+C:\Users\maxim\source\repos\SanaCSharp02\SanaCSharp02\PointsAverage\obj\Debug\net6.0\PointsAverage.dll
+C:\Users\maxim\source\repos\SanaCSharp02\SanaCSharp02\PointsAverage\obj\Debug\net6.0\refint\PointsAverage.dll
+C:\Users\maxim\source\repos\SanaCSharp02\SanaCSharp02\PointsAverage\obj\Debug\net6.0\PointsAverage.pdb
+C:\Users\maxim\source\repos\SanaCSharp02\SanaCSharp02\PointsAverage\obj\Debug\net6.0\PointsAverage.genruntimeconfig.cache
+C:\Users\maxim\source\repos\SanaCSharp02\SanaCSharp02\PointsAverage\obj\Debug\net6.0\ref\PointsAverage.dll
