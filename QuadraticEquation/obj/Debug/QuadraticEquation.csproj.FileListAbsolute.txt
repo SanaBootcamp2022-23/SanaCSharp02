@@ -1,0 +1,8 @@
+C:\Users\08092\source\repos\SanaPrakt02\SanaCSharp02\QuadraticEquation\bin\Debug\QuadraticEquation.exe.config
+C:\Users\08092\source\repos\SanaPrakt02\SanaCSharp02\QuadraticEquation\bin\Debug\QuadraticEquation.exe
+C:\Users\08092\source\repos\SanaPrakt02\SanaCSharp02\QuadraticEquation\bin\Debug\QuadraticEquation.pdb
+C:\Users\08092\source\repos\SanaPrakt02\SanaCSharp02\QuadraticEquation\obj\Debug\QuadraticEquation.csproj.AssemblyReference.cache
+C:\Users\08092\source\repos\SanaPrakt02\SanaCSharp02\QuadraticEquation\obj\Debug\QuadraticEquation.csproj.SuggestedBindingRedirects.cache
+C:\Users\08092\source\repos\SanaPrakt02\SanaCSharp02\QuadraticEquation\obj\Debug\QuadraticEquation.csproj.CoreCompileInputs.cache
+C:\Users\08092\source\repos\SanaPrakt02\SanaCSharp02\QuadraticEquation\obj\Debug\QuadraticEquation.exe
+C:\Users\08092\source\repos\SanaPrakt02\SanaCSharp02\QuadraticEquation\obj\Debug\QuadraticEquation.pdb
