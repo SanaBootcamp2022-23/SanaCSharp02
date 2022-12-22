@@ -4,7 +4,7 @@
 {
     Console.OutputEncoding = Encoding.UTF8;
 
-    Console.WriteLine("Введість число від 0 до 9");
+    Console.WriteLine("Введіть число від 0 до 9");
 
     int a = int.Parse(Console.ReadLine());
 
