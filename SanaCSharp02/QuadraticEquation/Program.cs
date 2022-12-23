@@ -30,15 +30,16 @@ namespace QuadraticEquation
                 return;
             }
 
-            if (resultModel.RealRoots != null) 
+            if (resultModel.RealRoots != null)
             {
-                if (resultModel.CountOfRoots == 1)
+                switch (resultModel.CountOfRoots)
                 {
-                    Console.WriteLine($"Root: {Math.Round(resultModel.RealRoots[0], 3)}");
-                }
-                else if (resultModel.CountOfRoots == 2)
-                {
-                    Console.WriteLine($"Roots: {Math.Round(resultModel.RealRoots[0], 3)} {Math.Round(resultModel.RealRoots[1], 3)}");
+                    case 1:
+                        Console.WriteLine($"Root: {Math.Round(resultModel.RealRoots[0], 3)}");
+                        break;
+                    case 2:
+                        Console.WriteLine($"Roots: {Math.Round(resultModel.RealRoots[0], 3)} {Math.Round(resultModel.RealRoots[1], 3)}");
+                        break;
                 }
             }
             else

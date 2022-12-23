@@ -52,5 +52,18 @@ namespace MathLibrary
                 RealRoots = realRoots 
             };
         }
+
+        public static double CalculateAverage(params double[] numbers)
+        {
+            var sum = 0.0;
+
+            foreach (var number in numbers)
+            {
+                sum += number;
+            }
+
+            var average = sum / numbers.Length;
+            return average;
+        }
     }
 }
