@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QuadraticEquation", "QuadraticEquation\QuadraticEquation.csproj", "{0112E39B-F89D-4E81-BF9D-D60D9510592F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PointsAvarage", "PointsAvarage\PointsAvarage.csproj", "{1F3088C0-BA43-4CBC-90F9-E228A0175B9D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwitchValues", "SwitchValues\SwitchValues.csproj", "{103318E9-EEE3-46BB-9ED1-17299C1956FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "While1", "While1\While1.csproj", "{40BC5BC1-566C-43AD-80EC-99C6316A3366}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0112E39B-F89D-4E81-BF9D-D60D9510592F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0112E39B-F89D-4E81-BF9D-D60D9510592F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0112E39B-F89D-4E81-BF9D-D60D9510592F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0112E39B-F89D-4E81-BF9D-D60D9510592F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F3088C0-BA43-4CBC-90F9-E228A0175B9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F3088C0-BA43-4CBC-90F9-E228A0175B9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F3088C0-BA43-4CBC-90F9-E228A0175B9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F3088C0-BA43-4CBC-90F9-E228A0175B9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{103318E9-EEE3-46BB-9ED1-17299C1956FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{103318E9-EEE3-46BB-9ED1-17299C1956FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{103318E9-EEE3-46BB-9ED1-17299C1956FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{103318E9-EEE3-46BB-9ED1-17299C1956FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40BC5BC1-566C-43AD-80EC-99C6316A3366}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40BC5BC1-566C-43AD-80EC-99C6316A3366}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40BC5BC1-566C-43AD-80EC-99C6316A3366}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40BC5BC1-566C-43AD-80EC-99C6316A3366}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89F98C16-B343-446F-B068-3B7A261D16AF}
+	EndGlobalSection
+EndGlobal
