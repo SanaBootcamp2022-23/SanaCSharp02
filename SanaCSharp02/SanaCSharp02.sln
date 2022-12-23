@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QuadtaticEquation", "QuadtaticEquation\QuadtaticEquation.csproj", "{863A94DD-B9F2-4780-91D6-F0C16CE4BA13}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PointsAverage", "PointsAverage\PointsAverage.csproj", "{DFBB66B7-D986-42C9-9344-A2CBB807432D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{863A94DD-B9F2-4780-91D6-F0C16CE4BA13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{863A94DD-B9F2-4780-91D6-F0C16CE4BA13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{863A94DD-B9F2-4780-91D6-F0C16CE4BA13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{863A94DD-B9F2-4780-91D6-F0C16CE4BA13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFBB66B7-D986-42C9-9344-A2CBB807432D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFBB66B7-D986-42C9-9344-A2CBB807432D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFBB66B7-D986-42C9-9344-A2CBB807432D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFBB66B7-D986-42C9-9344-A2CBB807432D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9055EB50-9420-4A83-9E0F-B9D20E25D528}
+	EndGlobalSection
+EndGlobal
