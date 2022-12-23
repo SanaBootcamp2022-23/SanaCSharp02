@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuadraticEquation", "QuadraticEquation\QuadraticEquation.csproj", "{C6C12006-2C8B-486E-A873-EF77F269FFBA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Helpers", "Helpers\Helpers.csproj", "{70E3197B-B1E7-4F6B-A5A6-0F84763F4613}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathLibrary", "Math\MathLibrary.csproj", "{8A53AB90-B050-44DC-961E-8C06344F1030}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6C12006-2C8B-486E-A873-EF77F269FFBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6C12006-2C8B-486E-A873-EF77F269FFBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6C12006-2C8B-486E-A873-EF77F269FFBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6C12006-2C8B-486E-A873-EF77F269FFBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70E3197B-B1E7-4F6B-A5A6-0F84763F4613}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70E3197B-B1E7-4F6B-A5A6-0F84763F4613}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70E3197B-B1E7-4F6B-A5A6-0F84763F4613}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70E3197B-B1E7-4F6B-A5A6-0F84763F4613}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A53AB90-B050-44DC-961E-8C06344F1030}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A53AB90-B050-44DC-961E-8C06344F1030}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A53AB90-B050-44DC-961E-8C06344F1030}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A53AB90-B050-44DC-961E-8C06344F1030}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C7A5C8F-429A-4C90-AB5D-663CE46953A7}
+	EndGlobalSection
+EndGlobal
