@@ -59,7 +59,7 @@ class QuadraticEquation
     private void DiscriminantSolver()
     {
         double D = Math.Pow(B, 2) - 4 * A * C;
-        Console.WriteLine($"Discriminant: {D:0.0.0}");
+        Console.WriteLine($"Discriminant: {D:0.000}");
 
         if (D >= 0)
         {
