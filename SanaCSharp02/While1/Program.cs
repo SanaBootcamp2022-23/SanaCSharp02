@@ -17,4 +17,7 @@ for (int i = 1; i <= n; i++)
     b += 1 + 1 / Math.Pow(i, 2);
     factorial*= i;
     c += 1 / factorial;
+    Console.WriteLine($"а={a}");
+    Console.WriteLine($"b={b}");
+    Console.WriteLine($"c={c}");
 }
