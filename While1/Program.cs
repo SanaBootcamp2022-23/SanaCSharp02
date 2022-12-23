@@ -2,12 +2,11 @@ internal class Program
 {
     private static void Main()
     {
-        int n;
         double a, b, c;
         a = b = c = 0;
 
         Console.WriteLine("");
-        n = ParseIntVar(nameof(n));
+        int n = ParseIntVar(nameof(n));
 
         // for (int i = 1; i <= n; i++)
         // {
@@ -32,7 +31,7 @@ internal class Program
         Console.WriteLine($"c = {c:0.000}");
     }
 
-    private static double Factorial(double n)
+    private static int Factorial(int n)
     {
         return n == 0
             ? 1
