@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Helpers", "Helpers\Helpers.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MathLibrary", "Math\MathLibrary.csproj", "{8A53AB90-B050-44DC-961E-8C06344F1030}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PointsAverage", "PointsAverage\PointsAverage.csproj", "{C6952A73-7537-486F-9E52-5E975BE9C52F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PointsAverage", "PointsAverage\PointsAverage.csproj", "{C6952A73-7537-486F-9E52-5E975BE9C52F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwitchValues", "SwitchValues\SwitchValues.csproj", "{ABC2389D-1643-4F69-99F7-17740E313712}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{C6952A73-7537-486F-9E52-5E975BE9C52F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C6952A73-7537-486F-9E52-5E975BE9C52F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C6952A73-7537-486F-9E52-5E975BE9C52F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABC2389D-1643-4F69-99F7-17740E313712}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABC2389D-1643-4F69-99F7-17740E313712}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABC2389D-1643-4F69-99F7-17740E313712}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABC2389D-1643-4F69-99F7-17740E313712}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
