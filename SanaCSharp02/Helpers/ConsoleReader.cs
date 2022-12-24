@@ -30,6 +30,19 @@
             return number;
         }
 
+        public static ulong ReadUlong(string label, ulong min = ulong.MinValue, ulong max = ulong.MaxValue)
+        {
+            ulong number;
+
+            Console.Write($"\"{label}\" = ");
+            while (!ulong.TryParse(Console.ReadLine(), out number) || number < min || number > max)
+            {
+                Console.WriteLine($"Error! The number \"{label}\" is not correct!");
+                Console.Write($"Please repeat entering a integer value.\n\n\"{label}\" = ");
+            }
+
+            return number;
+        }
 
         public static void MakeCustomSeparator()
         {

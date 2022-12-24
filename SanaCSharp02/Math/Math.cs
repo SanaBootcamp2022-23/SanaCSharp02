@@ -83,5 +83,13 @@ namespace MathLibrary
                 _ => ""
             };
         }
+
+        public static ulong Factorial(ulong number)
+        {
+            if (number == 0) 
+                return 1;
+
+            return number * Factorial(number - 1);
+        }
     }
 }
