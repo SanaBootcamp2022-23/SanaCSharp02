@@ -3,7 +3,10 @@ Console.WriteLine("Enter number [0, 9]:");
 
 sbyte number;
 if(!sbyte.TryParse(Console.ReadLine(), out number))
-    Console.WriteLine("Error! Enter number"); return;
+{
+    Console.WriteLine("Error! Enter number");
+    return;
+}
 
 switch(number)
 {
