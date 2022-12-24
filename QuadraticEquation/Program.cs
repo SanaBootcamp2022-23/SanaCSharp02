@@ -8,6 +8,7 @@ CheckAndWriteNumber(out a, "a");
 CheckAndWriteNumber(out b , "b");
 CheckAndWriteNumber(out c, "c");
 
+SolvingQuadraticEquation();
 void CheckAndWriteNumber(out int number, string str)
 {
     do
@@ -21,22 +22,25 @@ void CheckAndWriteNumber(out int number, string str)
     } while (!isRightNumber);
 }
 
-discriminant = Math.Pow(b, 2) - 4 * a * c;
-Console.WriteLine($"\nDiscriminant = {discriminant}\n");
+void SolvingQuadraticEquation()
+{
+    discriminant = Math.Pow(b, 2) - 4 * a * c;
+    Console.WriteLine($"\nDiscriminant = {discriminant}\n");
 
-if (discriminant > 0)
-{
-    double x1 = (-b + Math.Sqrt(discriminant)) / (2 * a);
-    double x2 = (-b - Math.Sqrt(discriminant)) / (2 * a);
+    if (discriminant > 0)
+    {
+        double x1 = (-b + Math.Sqrt(discriminant)) / (2 * a);
+        double x2 = (-b - Math.Sqrt(discriminant)) / (2 * a);
 
-    Console.WriteLine($"x1 = {x1}\nx2 = {x2}", "F3");
-}
-else if (discriminant == 0)
-{
-    double x = (-b) / (2 * a);
-    Console.WriteLine($"x1 = {x}", "F3");
-}
-else
-{
-    Console.WriteLine("There is no solution.");
+        Console.WriteLine($"x1 = {x1}\nx2 = {x2}", "F3");
+    }
+    else if (discriminant == 0)
+    {
+        double x = (-b) / (2 * a);
+        Console.WriteLine($"x1 = {x}", "F3");
+    }
+    else
+    {
+        Console.WriteLine("There is no solution.");
+    }
 }
