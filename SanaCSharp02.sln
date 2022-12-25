@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuadraticEquation", "QuadraticEquation\QuadraticEquation.csproj", "{8CA37E22-20C7-49D2-8AED-74EA68A53481}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8CA37E22-20C7-49D2-8AED-74EA68A53481}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CA37E22-20C7-49D2-8AED-74EA68A53481}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CA37E22-20C7-49D2-8AED-74EA68A53481}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CA37E22-20C7-49D2-8AED-74EA68A53481}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29EE77E7-4FFB-474A-B38A-FC786734E7F6}
+	EndGlobalSection
+EndGlobal
