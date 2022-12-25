@@ -13,7 +13,7 @@ while (n >= i)
     b += 1 + 1 / (Math.Pow(i, 2));
     fact *= i;
     c += fact;
-    Console.WriteLine("a={0}, b={1}, c={2} {3}", a, b, c, i);
+    
     i++;
     
 }
