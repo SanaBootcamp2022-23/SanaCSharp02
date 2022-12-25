@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuadraticEquation", "QuadraticEquation\QuadraticEquation.csproj", "{8CA37E22-20C7-49D2-8AED-74EA68A53481}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QuadraticEquation", "QuadraticEquation\QuadraticEquation.csproj", "{8CA37E22-20C7-49D2-8AED-74EA68A53481}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PointsAverage", "PointsAverage\PointsAverage.csproj", "{40463C86-FF80-4BA5-A41F-E0D6AF8F64B2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{8CA37E22-20C7-49D2-8AED-74EA68A53481}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8CA37E22-20C7-49D2-8AED-74EA68A53481}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8CA37E22-20C7-49D2-8AED-74EA68A53481}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40463C86-FF80-4BA5-A41F-E0D6AF8F64B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40463C86-FF80-4BA5-A41F-E0D6AF8F64B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40463C86-FF80-4BA5-A41F-E0D6AF8F64B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40463C86-FF80-4BA5-A41F-E0D6AF8F64B2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
