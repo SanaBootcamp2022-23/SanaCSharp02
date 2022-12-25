@@ -6,7 +6,7 @@ namespace ConsoleApp
     {
         static void Main(string[] args)
         {
-            float a, b, c, d;
+            double a, b, c, d;
 
             do
             {
@@ -14,9 +14,9 @@ namespace ConsoleApp
                 a = int.Parse(Console.ReadLine());
                 if (a == 0)
                 {
-                Console.WriteLine("a == 0");
+                    Console.WriteLine("a == 0");
                 }
-            } while(a==0);
+            } while (a == 0);
             Console.WriteLine("Enter b:");
             b = int.Parse(Console.ReadLine());
             Console.WriteLine("Enter c:");
