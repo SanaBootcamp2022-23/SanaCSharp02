@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PointsAverage", "PointsAver
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwitchValues", "SwitchValues\SwitchValues.csproj", "{EC0F20A4-F4BC-4EAA-920D-E24CCD10A879}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "While1", "While1\While1.csproj", "{6B1F6D70-3306-4D1F-BDEA-4AD59DB6DCD9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{EC0F20A4-F4BC-4EAA-920D-E24CCD10A879}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EC0F20A4-F4BC-4EAA-920D-E24CCD10A879}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EC0F20A4-F4BC-4EAA-920D-E24CCD10A879}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B1F6D70-3306-4D1F-BDEA-4AD59DB6DCD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B1F6D70-3306-4D1F-BDEA-4AD59DB6DCD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B1F6D70-3306-4D1F-BDEA-4AD59DB6DCD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B1F6D70-3306-4D1F-BDEA-4AD59DB6DCD9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
