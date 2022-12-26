@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "QuadraticEquation": {
+      "commandName": "Project"
+    },
+    "Profile 1": {
+      "commandName": "Project"
+    }
+  }
+}
