@@ -2,11 +2,11 @@
 
 double D, x1, x2;
 
-Console.WriteLine("Please, inpute number a");
+Console.WriteLine("Please, input number a");
 a = Convert.ToDouble(Console.ReadLine());
-Console.WriteLine("Please, inpute number b");
+Console.WriteLine("Please, input number b");
 b = Convert.ToDouble(Console.ReadLine());
-Console.WriteLine("Please, inpute number c");
+Console.WriteLine("Please, input number c");
 c = Convert.ToDouble(Console.ReadLine());
 
 D = Math.Pow(b, 2) - 4 * a * c;
