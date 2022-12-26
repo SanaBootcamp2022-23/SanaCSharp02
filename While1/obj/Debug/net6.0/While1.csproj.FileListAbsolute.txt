@@ -1,0 +1,15 @@
+D:\Unik\SanaCourses2022\SanaCSharp02\While1\bin\Debug\net6.0\While1.exe
+D:\Unik\SanaCourses2022\SanaCSharp02\While1\bin\Debug\net6.0\While1.deps.json
+D:\Unik\SanaCourses2022\SanaCSharp02\While1\bin\Debug\net6.0\While1.runtimeconfig.json
+D:\Unik\SanaCourses2022\SanaCSharp02\While1\bin\Debug\net6.0\While1.dll
+D:\Unik\SanaCourses2022\SanaCSharp02\While1\bin\Debug\net6.0\While1.pdb
+D:\Unik\SanaCourses2022\SanaCSharp02\While1\obj\Debug\net6.0\While1.csproj.AssemblyReference.cache
+D:\Unik\SanaCourses2022\SanaCSharp02\While1\obj\Debug\net6.0\While1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unik\SanaCourses2022\SanaCSharp02\While1\obj\Debug\net6.0\While1.AssemblyInfoInputs.cache
+D:\Unik\SanaCourses2022\SanaCSharp02\While1\obj\Debug\net6.0\While1.AssemblyInfo.cs
+D:\Unik\SanaCourses2022\SanaCSharp02\While1\obj\Debug\net6.0\While1.csproj.CoreCompileInputs.cache
+D:\Unik\SanaCourses2022\SanaCSharp02\While1\obj\Debug\net6.0\While1.dll
+D:\Unik\SanaCourses2022\SanaCSharp02\While1\obj\Debug\net6.0\refint\While1.dll
+D:\Unik\SanaCourses2022\SanaCSharp02\While1\obj\Debug\net6.0\While1.pdb
+D:\Unik\SanaCourses2022\SanaCSharp02\While1\obj\Debug\net6.0\While1.genruntimeconfig.cache
+D:\Unik\SanaCourses2022\SanaCSharp02\While1\obj\Debug\net6.0\ref\While1.dll

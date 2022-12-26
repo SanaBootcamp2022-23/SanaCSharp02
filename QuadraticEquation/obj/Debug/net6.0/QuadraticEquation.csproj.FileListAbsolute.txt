@@ -1,0 +1,15 @@
+D:\Unik\SanaCourses2022\SanaCSharp02\QuadraticEquation\obj\Debug\net6.0\QuadraticEquation.csproj.AssemblyReference.cache
+D:\Unik\SanaCourses2022\SanaCSharp02\QuadraticEquation\obj\Debug\net6.0\QuadraticEquation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unik\SanaCourses2022\SanaCSharp02\QuadraticEquation\obj\Debug\net6.0\QuadraticEquation.AssemblyInfoInputs.cache
+D:\Unik\SanaCourses2022\SanaCSharp02\QuadraticEquation\obj\Debug\net6.0\QuadraticEquation.AssemblyInfo.cs
+D:\Unik\SanaCourses2022\SanaCSharp02\QuadraticEquation\obj\Debug\net6.0\QuadraticEquation.csproj.CoreCompileInputs.cache
+D:\Unik\SanaCourses2022\SanaCSharp02\QuadraticEquation\obj\Debug\net6.0\QuadraticEquation.dll
+D:\Unik\SanaCourses2022\SanaCSharp02\QuadraticEquation\obj\Debug\net6.0\QuadraticEquation.pdb
+D:\Unik\SanaCourses2022\SanaCSharp02\QuadraticEquation\bin\Debug\net6.0\QuadraticEquation.exe
+D:\Unik\SanaCourses2022\SanaCSharp02\QuadraticEquation\bin\Debug\net6.0\QuadraticEquation.deps.json
+D:\Unik\SanaCourses2022\SanaCSharp02\QuadraticEquation\bin\Debug\net6.0\QuadraticEquation.runtimeconfig.json
+D:\Unik\SanaCourses2022\SanaCSharp02\QuadraticEquation\bin\Debug\net6.0\QuadraticEquation.dll
+D:\Unik\SanaCourses2022\SanaCSharp02\QuadraticEquation\bin\Debug\net6.0\QuadraticEquation.pdb
+D:\Unik\SanaCourses2022\SanaCSharp02\QuadraticEquation\obj\Debug\net6.0\refint\QuadraticEquation.dll
+D:\Unik\SanaCourses2022\SanaCSharp02\QuadraticEquation\obj\Debug\net6.0\QuadraticEquation.genruntimeconfig.cache
+D:\Unik\SanaCourses2022\SanaCSharp02\QuadraticEquation\obj\Debug\net6.0\ref\QuadraticEquation.dll
