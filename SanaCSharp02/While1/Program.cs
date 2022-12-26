@@ -6,6 +6,7 @@ namespace While1
     {
         static void Main(string[] args)
         {
+
             int n = int.Parse(Console.ReadLine());
 
             double a = 0, b = 0, c = 0;
@@ -22,6 +23,8 @@ namespace While1
                 temp *= i;
                 c += temp;
             }
+
+            Console.WriteLine($"A = {a}, B = {b} and C = {c}");
         }
     }
 }
