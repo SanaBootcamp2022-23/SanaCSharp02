@@ -3,7 +3,7 @@
 Console.OutputEncoding = Encoding.Unicode;
 Console.InputEncoding = Encoding.Unicode;
 
-int n;
+int n, factorial = 1;
 double a = 0, b = 0, c = 1;
 
 Console.WriteLine("Введіть натуральне число n = ");
@@ -14,7 +14,8 @@ if (n > 0)
     {
         a += Math.Pow(-1.0, i) / (2.0 * i + 1);
         b += (1 + 1.0 / (i * i));
-        c *= i;
+        factorial *= i;
+        c += factorial;
     }
 
 
