@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuadraticEquation", "QuadraticEquation\QuadraticEquation.csproj", "{006112DB-E8CA-4D39-A26D-B7D8D8314204}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PointsAverage", "PointsAverage\PointsAverage.csproj", "{867BDC40-2DD7-485D-ACBF-E12435335DEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwitchValues", "SwitchValues\SwitchValues.csproj", "{26E83675-B262-42D8-B341-21CC487249F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "While1", "While1\While1.csproj", "{347A7A78-2169-4833-B84E-C1153931043B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{006112DB-E8CA-4D39-A26D-B7D8D8314204}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{006112DB-E8CA-4D39-A26D-B7D8D8314204}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{006112DB-E8CA-4D39-A26D-B7D8D8314204}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{006112DB-E8CA-4D39-A26D-B7D8D8314204}.Release|Any CPU.Build.0 = Release|Any CPU
+		{867BDC40-2DD7-485D-ACBF-E12435335DEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{867BDC40-2DD7-485D-ACBF-E12435335DEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{867BDC40-2DD7-485D-ACBF-E12435335DEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{867BDC40-2DD7-485D-ACBF-E12435335DEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26E83675-B262-42D8-B341-21CC487249F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26E83675-B262-42D8-B341-21CC487249F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26E83675-B262-42D8-B341-21CC487249F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26E83675-B262-42D8-B341-21CC487249F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{347A7A78-2169-4833-B84E-C1153931043B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{347A7A78-2169-4833-B84E-C1153931043B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{347A7A78-2169-4833-B84E-C1153931043B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{347A7A78-2169-4833-B84E-C1153931043B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
