@@ -1,0 +1,15 @@
+D:\Sana projects\SanaPrakt4\SanaCSharp02\SanaCSharp02\QuadraticEquation\bin\Debug\net6.0\QuadraticEquation.exe
+D:\Sana projects\SanaPrakt4\SanaCSharp02\SanaCSharp02\QuadraticEquation\bin\Debug\net6.0\QuadraticEquation.deps.json
+D:\Sana projects\SanaPrakt4\SanaCSharp02\SanaCSharp02\QuadraticEquation\bin\Debug\net6.0\QuadraticEquation.runtimeconfig.json
+D:\Sana projects\SanaPrakt4\SanaCSharp02\SanaCSharp02\QuadraticEquation\bin\Debug\net6.0\QuadraticEquation.dll
+D:\Sana projects\SanaPrakt4\SanaCSharp02\SanaCSharp02\QuadraticEquation\bin\Debug\net6.0\QuadraticEquation.pdb
+D:\Sana projects\SanaPrakt4\SanaCSharp02\SanaCSharp02\QuadraticEquation\obj\Debug\net6.0\QuadraticEquation.csproj.AssemblyReference.cache
+D:\Sana projects\SanaPrakt4\SanaCSharp02\SanaCSharp02\QuadraticEquation\obj\Debug\net6.0\QuadraticEquation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sana projects\SanaPrakt4\SanaCSharp02\SanaCSharp02\QuadraticEquation\obj\Debug\net6.0\QuadraticEquation.AssemblyInfoInputs.cache
+D:\Sana projects\SanaPrakt4\SanaCSharp02\SanaCSharp02\QuadraticEquation\obj\Debug\net6.0\QuadraticEquation.AssemblyInfo.cs
+D:\Sana projects\SanaPrakt4\SanaCSharp02\SanaCSharp02\QuadraticEquation\obj\Debug\net6.0\QuadraticEquation.csproj.CoreCompileInputs.cache
+D:\Sana projects\SanaPrakt4\SanaCSharp02\SanaCSharp02\QuadraticEquation\obj\Debug\net6.0\QuadraticEquation.dll
+D:\Sana projects\SanaPrakt4\SanaCSharp02\SanaCSharp02\QuadraticEquation\obj\Debug\net6.0\refint\QuadraticEquation.dll
+D:\Sana projects\SanaPrakt4\SanaCSharp02\SanaCSharp02\QuadraticEquation\obj\Debug\net6.0\QuadraticEquation.pdb
+D:\Sana projects\SanaPrakt4\SanaCSharp02\SanaCSharp02\QuadraticEquation\obj\Debug\net6.0\QuadraticEquation.genruntimeconfig.cache
+D:\Sana projects\SanaPrakt4\SanaCSharp02\SanaCSharp02\QuadraticEquation\obj\Debug\net6.0\ref\QuadraticEquation.dll

@@ -1,0 +1,15 @@
+D:\Sana projects\SanaPrakt4\SanaCSharp02\SanaCSharp02\SwitchValues\bin\Debug\net6.0\SwitchValues.exe
+D:\Sana projects\SanaPrakt4\SanaCSharp02\SanaCSharp02\SwitchValues\bin\Debug\net6.0\SwitchValues.deps.json
+D:\Sana projects\SanaPrakt4\SanaCSharp02\SanaCSharp02\SwitchValues\bin\Debug\net6.0\SwitchValues.runtimeconfig.json
+D:\Sana projects\SanaPrakt4\SanaCSharp02\SanaCSharp02\SwitchValues\bin\Debug\net6.0\SwitchValues.dll
+D:\Sana projects\SanaPrakt4\SanaCSharp02\SanaCSharp02\SwitchValues\bin\Debug\net6.0\SwitchValues.pdb
+D:\Sana projects\SanaPrakt4\SanaCSharp02\SanaCSharp02\SwitchValues\obj\Debug\net6.0\SwitchValues.csproj.AssemblyReference.cache
+D:\Sana projects\SanaPrakt4\SanaCSharp02\SanaCSharp02\SwitchValues\obj\Debug\net6.0\SwitchValues.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sana projects\SanaPrakt4\SanaCSharp02\SanaCSharp02\SwitchValues\obj\Debug\net6.0\SwitchValues.AssemblyInfoInputs.cache
+D:\Sana projects\SanaPrakt4\SanaCSharp02\SanaCSharp02\SwitchValues\obj\Debug\net6.0\SwitchValues.AssemblyInfo.cs
+D:\Sana projects\SanaPrakt4\SanaCSharp02\SanaCSharp02\SwitchValues\obj\Debug\net6.0\SwitchValues.csproj.CoreCompileInputs.cache
+D:\Sana projects\SanaPrakt4\SanaCSharp02\SanaCSharp02\SwitchValues\obj\Debug\net6.0\SwitchValues.dll
+D:\Sana projects\SanaPrakt4\SanaCSharp02\SanaCSharp02\SwitchValues\obj\Debug\net6.0\refint\SwitchValues.dll
+D:\Sana projects\SanaPrakt4\SanaCSharp02\SanaCSharp02\SwitchValues\obj\Debug\net6.0\SwitchValues.pdb
+D:\Sana projects\SanaPrakt4\SanaCSharp02\SanaCSharp02\SwitchValues\obj\Debug\net6.0\SwitchValues.genruntimeconfig.cache
+D:\Sana projects\SanaPrakt4\SanaCSharp02\SanaCSharp02\SwitchValues\obj\Debug\net6.0\ref\SwitchValues.dll
