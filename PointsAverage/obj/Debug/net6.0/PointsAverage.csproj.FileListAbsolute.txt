@@ -1,0 +1,15 @@
+D:\Unik\SanaCourses2022\SanaCSharp02\PointsAverage\bin\Debug\net6.0\PointsAverage.exe
+D:\Unik\SanaCourses2022\SanaCSharp02\PointsAverage\bin\Debug\net6.0\PointsAverage.deps.json
+D:\Unik\SanaCourses2022\SanaCSharp02\PointsAverage\bin\Debug\net6.0\PointsAverage.runtimeconfig.json
+D:\Unik\SanaCourses2022\SanaCSharp02\PointsAverage\bin\Debug\net6.0\PointsAverage.dll
+D:\Unik\SanaCourses2022\SanaCSharp02\PointsAverage\bin\Debug\net6.0\PointsAverage.pdb
+D:\Unik\SanaCourses2022\SanaCSharp02\PointsAverage\obj\Debug\net6.0\PointsAverage.csproj.AssemblyReference.cache
+D:\Unik\SanaCourses2022\SanaCSharp02\PointsAverage\obj\Debug\net6.0\PointsAverage.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unik\SanaCourses2022\SanaCSharp02\PointsAverage\obj\Debug\net6.0\PointsAverage.AssemblyInfoInputs.cache
+D:\Unik\SanaCourses2022\SanaCSharp02\PointsAverage\obj\Debug\net6.0\PointsAverage.AssemblyInfo.cs
+D:\Unik\SanaCourses2022\SanaCSharp02\PointsAverage\obj\Debug\net6.0\PointsAverage.csproj.CoreCompileInputs.cache
+D:\Unik\SanaCourses2022\SanaCSharp02\PointsAverage\obj\Debug\net6.0\PointsAverage.dll
+D:\Unik\SanaCourses2022\SanaCSharp02\PointsAverage\obj\Debug\net6.0\refint\PointsAverage.dll
+D:\Unik\SanaCourses2022\SanaCSharp02\PointsAverage\obj\Debug\net6.0\PointsAverage.pdb
+D:\Unik\SanaCourses2022\SanaCSharp02\PointsAverage\obj\Debug\net6.0\PointsAverage.genruntimeconfig.cache
+D:\Unik\SanaCourses2022\SanaCSharp02\PointsAverage\obj\Debug\net6.0\ref\PointsAverage.dll

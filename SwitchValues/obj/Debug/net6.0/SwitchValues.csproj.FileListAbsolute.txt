@@ -1,0 +1,15 @@
+D:\Unik\SanaCourses2022\SanaCSharp02\SwitchValues\bin\Debug\net6.0\SwitchValues.exe
+D:\Unik\SanaCourses2022\SanaCSharp02\SwitchValues\bin\Debug\net6.0\SwitchValues.deps.json
+D:\Unik\SanaCourses2022\SanaCSharp02\SwitchValues\bin\Debug\net6.0\SwitchValues.runtimeconfig.json
+D:\Unik\SanaCourses2022\SanaCSharp02\SwitchValues\bin\Debug\net6.0\SwitchValues.dll
+D:\Unik\SanaCourses2022\SanaCSharp02\SwitchValues\bin\Debug\net6.0\SwitchValues.pdb
+D:\Unik\SanaCourses2022\SanaCSharp02\SwitchValues\obj\Debug\net6.0\SwitchValues.csproj.AssemblyReference.cache
+D:\Unik\SanaCourses2022\SanaCSharp02\SwitchValues\obj\Debug\net6.0\SwitchValues.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unik\SanaCourses2022\SanaCSharp02\SwitchValues\obj\Debug\net6.0\SwitchValues.AssemblyInfoInputs.cache
+D:\Unik\SanaCourses2022\SanaCSharp02\SwitchValues\obj\Debug\net6.0\SwitchValues.AssemblyInfo.cs
+D:\Unik\SanaCourses2022\SanaCSharp02\SwitchValues\obj\Debug\net6.0\SwitchValues.csproj.CoreCompileInputs.cache
+D:\Unik\SanaCourses2022\SanaCSharp02\SwitchValues\obj\Debug\net6.0\SwitchValues.dll
+D:\Unik\SanaCourses2022\SanaCSharp02\SwitchValues\obj\Debug\net6.0\refint\SwitchValues.dll
+D:\Unik\SanaCourses2022\SanaCSharp02\SwitchValues\obj\Debug\net6.0\SwitchValues.pdb
+D:\Unik\SanaCourses2022\SanaCSharp02\SwitchValues\obj\Debug\net6.0\SwitchValues.genruntimeconfig.cache
+D:\Unik\SanaCourses2022\SanaCSharp02\SwitchValues\obj\Debug\net6.0\ref\SwitchValues.dll
