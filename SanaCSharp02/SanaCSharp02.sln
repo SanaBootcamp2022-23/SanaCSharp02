@@ -3,7 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32602.291
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuadraticEquation", "QuadraticEquation\QuadraticEquation.csproj", "{EB3C19A3-CEC6-4E09-A1A9-BEC256EDEDE5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QuadraticEquation", "QuadraticEquation\QuadraticEquation.csproj", "{EB3C19A3-CEC6-4E09-A1A9-BEC256EDEDE5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PointsAverage", "PointsAverage\PointsAverage.csproj", "{A431D5CC-4292-47A2-BA80-3BD3D70B2A6D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SwitchValues", "SwitchValues\SwitchValues.csproj", "{84FB25C3-73C8-4DD4-B828-4D90CECB7AF3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "While1", "While1\While1.csproj", "{171027E6-999D-466D-B7AB-B51B35BB41A8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +21,18 @@ Global
 		{EB3C19A3-CEC6-4E09-A1A9-BEC256EDEDE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EB3C19A3-CEC6-4E09-A1A9-BEC256EDEDE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EB3C19A3-CEC6-4E09-A1A9-BEC256EDEDE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A431D5CC-4292-47A2-BA80-3BD3D70B2A6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A431D5CC-4292-47A2-BA80-3BD3D70B2A6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A431D5CC-4292-47A2-BA80-3BD3D70B2A6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A431D5CC-4292-47A2-BA80-3BD3D70B2A6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84FB25C3-73C8-4DD4-B828-4D90CECB7AF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84FB25C3-73C8-4DD4-B828-4D90CECB7AF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84FB25C3-73C8-4DD4-B828-4D90CECB7AF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84FB25C3-73C8-4DD4-B828-4D90CECB7AF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{171027E6-999D-466D-B7AB-B51B35BB41A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{171027E6-999D-466D-B7AB-B51B35BB41A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{171027E6-999D-466D-B7AB-B51B35BB41A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{171027E6-999D-466D-B7AB-B51B35BB41A8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
