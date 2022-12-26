@@ -7,7 +7,7 @@ double b = Convert.ToDouble(Console.ReadLine());
 double c = Convert.ToDouble(Console.ReadLine());
 
 double discriminant = b * b - 4 * a * c;
-
+Console.WriteLine("Дискримінант: " + discriminant);
 if (discriminant < 0)
 {
     Console.WriteLine("Немає реальних коренів.");
