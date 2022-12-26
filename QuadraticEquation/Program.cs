@@ -5,7 +5,13 @@ double x1, x2;
 Console.Write("Input number a = ");
 a = double.Parse(Console.ReadLine());
 
-Console.Write("Input number b = ");
+if (a == 0)
+{
+    Console.WriteLine("Error! Number a = 0");
+    return;
+}
+    Console.Write("Input number b = ");
+
 b = double.Parse(Console.ReadLine());
 
 Console.Write("Input number c = ");
