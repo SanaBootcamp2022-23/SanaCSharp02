@@ -1,0 +1,15 @@
+D:\Sana projects\SanaPrakt4\SanaCSharp02\SanaCSharp02\While1\bin\Debug\net6.0\While1.exe
+D:\Sana projects\SanaPrakt4\SanaCSharp02\SanaCSharp02\While1\bin\Debug\net6.0\While1.deps.json
+D:\Sana projects\SanaPrakt4\SanaCSharp02\SanaCSharp02\While1\bin\Debug\net6.0\While1.runtimeconfig.json
+D:\Sana projects\SanaPrakt4\SanaCSharp02\SanaCSharp02\While1\bin\Debug\net6.0\While1.dll
+D:\Sana projects\SanaPrakt4\SanaCSharp02\SanaCSharp02\While1\bin\Debug\net6.0\While1.pdb
+D:\Sana projects\SanaPrakt4\SanaCSharp02\SanaCSharp02\While1\obj\Debug\net6.0\While1.csproj.AssemblyReference.cache
+D:\Sana projects\SanaPrakt4\SanaCSharp02\SanaCSharp02\While1\obj\Debug\net6.0\While1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sana projects\SanaPrakt4\SanaCSharp02\SanaCSharp02\While1\obj\Debug\net6.0\While1.AssemblyInfoInputs.cache
+D:\Sana projects\SanaPrakt4\SanaCSharp02\SanaCSharp02\While1\obj\Debug\net6.0\While1.AssemblyInfo.cs
+D:\Sana projects\SanaPrakt4\SanaCSharp02\SanaCSharp02\While1\obj\Debug\net6.0\While1.csproj.CoreCompileInputs.cache
+D:\Sana projects\SanaPrakt4\SanaCSharp02\SanaCSharp02\While1\obj\Debug\net6.0\While1.dll
+D:\Sana projects\SanaPrakt4\SanaCSharp02\SanaCSharp02\While1\obj\Debug\net6.0\refint\While1.dll
+D:\Sana projects\SanaPrakt4\SanaCSharp02\SanaCSharp02\While1\obj\Debug\net6.0\While1.pdb
+D:\Sana projects\SanaPrakt4\SanaCSharp02\SanaCSharp02\While1\obj\Debug\net6.0\While1.genruntimeconfig.cache
+D:\Sana projects\SanaPrakt4\SanaCSharp02\SanaCSharp02\While1\obj\Debug\net6.0\ref\While1.dll
