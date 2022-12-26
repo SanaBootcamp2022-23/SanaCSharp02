@@ -1,6 +1,4 @@
-﻿using System.Runtime.CompilerServices;
-
-double a,b,c,d,x1,x2;
+﻿double a,b,c,d,x1,x2;
 Console.WriteLine("Program for calculating square expressions");
 
 a = enterData("Please enter coefficient a");
