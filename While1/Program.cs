@@ -12,17 +12,11 @@ namespace While1
 
         static void Main(string[] args)
         {
-            double a = 0, b = 0, c = 0;
             int n = 5;
 
-            for (int i = 1; i <= n; i++)
-            {
-                a += (Math.Pow(-1, i) / (2 * i + 1));
-                b += (1 + (1.0 / (i * i)));
-                c += Factorial(i);
-            }
-
-            Console.WriteLine($"a = {Math.Round(a, 3)}\nb = {Math.Round(b, 3)}\nc = {Math.Round(c, 3)}");
+            Console.WriteLine($"a = {Math.Round(Enumerable.Range(1, n).Sum(i => (Math.Pow(-1, i) / (2 * i + 1))), 3)}\n" +
+                              $"b = {Math.Round(Enumerable.Range(1, n).Sum(i => (1 + (1.0 / (i * i)))), 3)}\n" +
+                              $"c = {Enumerable.Range(1, n).Sum(i => Factorial(i))}");
         }
     }
 }
