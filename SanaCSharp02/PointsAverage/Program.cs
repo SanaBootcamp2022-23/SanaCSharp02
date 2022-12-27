@@ -24,13 +24,9 @@ namespace PointsAverage
             }
             averagePoint = totalSumOfPoints / countOfPoints;
             if (averagePoint >= 4)
-            {
                 Console.WriteLine($"Студент отримує допуск до екзамену\nСередній бал: {averagePoint}");
-            }
             else
-            {
                 Console.WriteLine($"Студент не отримує допуск до екзамену\nСередній бал: {averagePoint}");
-            }
         }
     }
 }

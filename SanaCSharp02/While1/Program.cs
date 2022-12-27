@@ -32,7 +32,6 @@ namespace While1
             Console.WriteLine($"Результат числа 'a' = {a}");
             Console.WriteLine($"Результат числа 'b' = {b}");
             Console.WriteLine($"Результат числа 'c' = {c}");
-
         }
     }
 }
