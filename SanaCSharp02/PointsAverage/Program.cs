@@ -1,17 +1,17 @@
 ﻿Console.WriteLine("Enter 5 stedent grades:");
-double point = 0;
-point += double.Parse(Console.ReadLine());
-point += double.Parse(Console.ReadLine());
-point += double.Parse(Console.ReadLine());
-point += double.Parse(Console.ReadLine());
-point += double.Parse(Console.ReadLine());
-double avgPoint = point / 5;
-Console.WriteLine("Середній бал студента: " + avgPoint);
-if (avgPoint >= 4)
+int[] arr = new int[5];
+int sum = 0;
+for (int i = 0; i < arr.Length; i++)
 {
-    Console.WriteLine("Студент допущений до екзамену");
+    arr[i] = int.Parse(Console.ReadLine());
+    sum += arr[i];
 }
-if (avgPoint < 4)
+double average = sum / arr.Length;
+if (average >= 4)
 {
-    Console.WriteLine("Студент не допущений до екзамену");
+    Console.WriteLine($"Студент допущений до екзамену!(Середній балл: {average})");
+}
+else
+{
+    Console.WriteLine($"Студент не допущений до екзамену!(Середній балл: {average})");
 }
