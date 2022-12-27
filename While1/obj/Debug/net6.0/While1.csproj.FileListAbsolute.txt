@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\Курси\SanaCSharp02\QuadraticEquation\While1\bin\Debug\net6.0\While1.exe
+C:\Users\Lenovo\Desktop\Курси\SanaCSharp02\QuadraticEquation\While1\bin\Debug\net6.0\While1.deps.json
+C:\Users\Lenovo\Desktop\Курси\SanaCSharp02\QuadraticEquation\While1\bin\Debug\net6.0\While1.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Курси\SanaCSharp02\QuadraticEquation\While1\bin\Debug\net6.0\While1.dll
+C:\Users\Lenovo\Desktop\Курси\SanaCSharp02\QuadraticEquation\While1\bin\Debug\net6.0\While1.pdb
+C:\Users\Lenovo\Desktop\Курси\SanaCSharp02\QuadraticEquation\While1\obj\Debug\net6.0\While1.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Курси\SanaCSharp02\QuadraticEquation\While1\obj\Debug\net6.0\While1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Курси\SanaCSharp02\QuadraticEquation\While1\obj\Debug\net6.0\While1.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Курси\SanaCSharp02\QuadraticEquation\While1\obj\Debug\net6.0\While1.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Курси\SanaCSharp02\QuadraticEquation\While1\obj\Debug\net6.0\While1.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Курси\SanaCSharp02\QuadraticEquation\While1\obj\Debug\net6.0\While1.dll
+C:\Users\Lenovo\Desktop\Курси\SanaCSharp02\QuadraticEquation\While1\obj\Debug\net6.0\refint\While1.dll
+C:\Users\Lenovo\Desktop\Курси\SanaCSharp02\QuadraticEquation\While1\obj\Debug\net6.0\While1.pdb
+C:\Users\Lenovo\Desktop\Курси\SanaCSharp02\QuadraticEquation\While1\obj\Debug\net6.0\While1.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\Курси\SanaCSharp02\QuadraticEquation\While1\obj\Debug\net6.0\ref\While1.dll

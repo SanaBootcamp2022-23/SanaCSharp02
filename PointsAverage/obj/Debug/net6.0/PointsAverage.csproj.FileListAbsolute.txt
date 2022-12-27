@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\Курси\SanaCSharp02\QuadraticEquation\PointsAverage\bin\Debug\net6.0\PointsAverage.exe
+C:\Users\Lenovo\Desktop\Курси\SanaCSharp02\QuadraticEquation\PointsAverage\bin\Debug\net6.0\PointsAverage.deps.json
+C:\Users\Lenovo\Desktop\Курси\SanaCSharp02\QuadraticEquation\PointsAverage\bin\Debug\net6.0\PointsAverage.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Курси\SanaCSharp02\QuadraticEquation\PointsAverage\bin\Debug\net6.0\PointsAverage.dll
+C:\Users\Lenovo\Desktop\Курси\SanaCSharp02\QuadraticEquation\PointsAverage\bin\Debug\net6.0\PointsAverage.pdb
+C:\Users\Lenovo\Desktop\Курси\SanaCSharp02\QuadraticEquation\PointsAverage\obj\Debug\net6.0\PointsAverage.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Курси\SanaCSharp02\QuadraticEquation\PointsAverage\obj\Debug\net6.0\PointsAverage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Курси\SanaCSharp02\QuadraticEquation\PointsAverage\obj\Debug\net6.0\PointsAverage.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Курси\SanaCSharp02\QuadraticEquation\PointsAverage\obj\Debug\net6.0\PointsAverage.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Курси\SanaCSharp02\QuadraticEquation\PointsAverage\obj\Debug\net6.0\PointsAverage.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Курси\SanaCSharp02\QuadraticEquation\PointsAverage\obj\Debug\net6.0\PointsAverage.dll
+C:\Users\Lenovo\Desktop\Курси\SanaCSharp02\QuadraticEquation\PointsAverage\obj\Debug\net6.0\refint\PointsAverage.dll
+C:\Users\Lenovo\Desktop\Курси\SanaCSharp02\QuadraticEquation\PointsAverage\obj\Debug\net6.0\PointsAverage.pdb
+C:\Users\Lenovo\Desktop\Курси\SanaCSharp02\QuadraticEquation\PointsAverage\obj\Debug\net6.0\PointsAverage.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\Курси\SanaCSharp02\QuadraticEquation\PointsAverage\obj\Debug\net6.0\ref\PointsAverage.dll
