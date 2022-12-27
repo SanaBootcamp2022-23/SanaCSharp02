@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SanaCSharp02", "SanaCSharp0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuadraticEquation", "QuadraticEquation\QuadraticEquation.csproj", "{37E546EF-CD80-4D18-A32E-676C1EA87D6B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PointsAverage", "PointsAverage\PointsAverage.csproj", "{AE3E459E-20EA-4B65-8D66-9BC7B538840C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{37E546EF-CD80-4D18-A32E-676C1EA87D6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{37E546EF-CD80-4D18-A32E-676C1EA87D6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{37E546EF-CD80-4D18-A32E-676C1EA87D6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE3E459E-20EA-4B65-8D66-9BC7B538840C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE3E459E-20EA-4B65-8D66-9BC7B538840C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE3E459E-20EA-4B65-8D66-9BC7B538840C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE3E459E-20EA-4B65-8D66-9BC7B538840C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
