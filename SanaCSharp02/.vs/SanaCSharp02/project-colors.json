@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e7489421-7e2c-49ab-8895-3d6b371361a5": {
+      "ProjectGuid": "e7489421-7e2c-49ab-8895-3d6b371361a5",
+      "DisplayName": "QuadraticEquation",
+      "ColorIndex": 0
+    },
+    "b2d74b5f-7831-4777-af6a-de5ab5145790": {
+      "ProjectGuid": "b2d74b5f-7831-4777-af6a-de5ab5145790",
+      "DisplayName": "PointsAverage",
+      "ColorIndex": 1
+    },
+    "20be06e1-02df-469f-9030-dba553c0fe5e": {
+      "ProjectGuid": "20be06e1-02df-469f-9030-dba553c0fe5e",
+      "DisplayName": "SwitchValues",
+      "ColorIndex": 2
+    },
+    "2a3a06d9-b136-4803-b652-ba23969bd6f4": {
+      "ProjectGuid": "2a3a06d9-b136-4803-b652-ba23969bd6f4",
+      "DisplayName": "While1",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
