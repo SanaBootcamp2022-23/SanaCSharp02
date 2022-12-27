@@ -9,7 +9,7 @@
                   c = 0;
             bool isSuccess = false;
             float result = 0;
-            Console.Write("Quadratic Exquation solver");
+            Console.WriteLine("Quadratic Exquation solver");
             Console.WriteLine("Please enter 3 values");
             while (!isSuccess)
             {
