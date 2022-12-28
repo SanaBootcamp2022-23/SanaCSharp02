@@ -14,7 +14,7 @@ int grade;
 int sumGrades = 0;
 double pointsAverage;
 
-//This cycle calculates the sum of the student's grades entered by the user.
+//This cycle calculates the sum of the student's grades entered by the user
 for (int counter = 1; counter <= 5; counter++)
 {
     Console.Write($"\t\tInput grade number {counter} from 1 to 5: ");
