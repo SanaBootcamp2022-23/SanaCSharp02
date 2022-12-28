@@ -40,7 +40,7 @@ double discriminant,
     discriminant = Math.Pow(coefficientB, 2) - 4 * coefficientA * freeElementC;
     Console.WriteLine($"\n\t\t\tDiscriminant D=b²-4ac: D = {discriminant}.");
 
-//This cycle sets the behavior of the program depending on the value of the discriminant
+//This condition check specifies the behavior of the program depending on the value of the discriminant
 if (discriminant < 0)
     Console.WriteLine("\n\t\tThis quadratic equation has no roots.");
 else if (discriminant == 0)

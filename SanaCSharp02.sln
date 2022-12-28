@@ -5,6 +5,8 @@ VisualStudioVersion = 17.4.33122.133
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuadraticEquation", "QuadraticEquation\QuadraticEquation.csproj", "{DBB2FBA5-B73C-4190-BB9F-DFD2FD6C5883}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PointsAverage", "PointsAverage\PointsAverage.csproj", "{35C9103A-8CDC-46A6-BB6A-BBF8450EC98D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{DBB2FBA5-B73C-4190-BB9F-DFD2FD6C5883}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DBB2FBA5-B73C-4190-BB9F-DFD2FD6C5883}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DBB2FBA5-B73C-4190-BB9F-DFD2FD6C5883}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35C9103A-8CDC-46A6-BB6A-BBF8450EC98D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35C9103A-8CDC-46A6-BB6A-BBF8450EC98D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35C9103A-8CDC-46A6-BB6A-BBF8450EC98D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35C9103A-8CDC-46A6-BB6A-BBF8450EC98D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
