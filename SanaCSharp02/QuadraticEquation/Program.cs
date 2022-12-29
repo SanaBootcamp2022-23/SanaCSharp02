@@ -3,7 +3,7 @@ using System.Text;
 
 namespace QuadraticEquation
 {
-    class Program
+    internal class Program
     {
         static void Main(string[] args)
         {
@@ -17,7 +17,6 @@ namespace QuadraticEquation
             customCulture.NumberFormat.NumberDecimalSeparator = ".";
             System.Threading.Thread.CurrentThread.CurrentCulture = customCulture;
 
-            Console.WriteLine("\nВиконав: Радченко Д.В\n");
 
             do
             {
@@ -66,6 +65,7 @@ namespace QuadraticEquation
 
 
             Console.ReadKey();
+
         }
     }
 }
