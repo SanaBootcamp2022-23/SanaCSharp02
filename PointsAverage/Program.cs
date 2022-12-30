@@ -7,16 +7,10 @@ namespace PointsAverage
         static void Main(string[] args)
         {
             Console.WriteLine("Введите 5 чисел");
-
-            List<int> points = new();
-
+            int points = 0;
             for (int i = 0; i < 5; i++)
-                points.Add(int.Parse(Console.ReadLine() ?? ""));
-
-            var average = points.Average();
-
-            Console.WriteLine($"{(average < 4.0 ? "Не д" : "Д")}опускаеться с средней оценкой: {average}");
-
+                points += int.Parse(Console.ReadLine() ?? "");
+            Console.WriteLine($"{((points / 5.0) < 4.0 ? "Не д" : "Д")}опускаеться с средней оценкой: {points / 5.0}");
         }
     }
 }
