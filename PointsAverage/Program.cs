@@ -9,6 +9,7 @@ customCulture.NumberFormat.NumberDecimalSeparator = ".";
 System.Threading.Thread.CurrentThread.CurrentCulture = customCulture;
 
 double sum=0,avg;
+Console.WriteLine("Введіть оцінкі через пробіл");
 string[] arrayPoints = Console.ReadLine().Split(' ');
 foreach (string point in arrayPoints)
 {
