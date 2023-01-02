@@ -18,7 +18,7 @@ c = double.Parse(Console.ReadLine());
 D = Math.Pow(b, 2) - 4 * a * c;
 x1 = (-b + D) / (2 * a);
 x2 = (-b - D) / (2 * a);
-Console.WriteLine( "D:"+D);
+Console.WriteLine("D:" + D);
 if (D > 0)
 {
     Console.WriteLine("x1 : "+ x1 + "\nx2: " + x2);
