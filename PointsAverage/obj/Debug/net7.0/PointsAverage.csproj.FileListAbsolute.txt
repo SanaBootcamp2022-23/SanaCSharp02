@@ -1,0 +1,15 @@
+E:\Курс\C#\SanaCSharp02\PointsAverage\bin\Debug\net7.0\PointsAverage.exe
+E:\Курс\C#\SanaCSharp02\PointsAverage\bin\Debug\net7.0\PointsAverage.deps.json
+E:\Курс\C#\SanaCSharp02\PointsAverage\bin\Debug\net7.0\PointsAverage.runtimeconfig.json
+E:\Курс\C#\SanaCSharp02\PointsAverage\bin\Debug\net7.0\PointsAverage.dll
+E:\Курс\C#\SanaCSharp02\PointsAverage\bin\Debug\net7.0\PointsAverage.pdb
+E:\Курс\C#\SanaCSharp02\PointsAverage\obj\Debug\net7.0\PointsAverage.csproj.AssemblyReference.cache
+E:\Курс\C#\SanaCSharp02\PointsAverage\obj\Debug\net7.0\PointsAverage.GeneratedMSBuildEditorConfig.editorconfig
+E:\Курс\C#\SanaCSharp02\PointsAverage\obj\Debug\net7.0\PointsAverage.AssemblyInfoInputs.cache
+E:\Курс\C#\SanaCSharp02\PointsAverage\obj\Debug\net7.0\PointsAverage.AssemblyInfo.cs
+E:\Курс\C#\SanaCSharp02\PointsAverage\obj\Debug\net7.0\PointsAverage.csproj.CoreCompileInputs.cache
+E:\Курс\C#\SanaCSharp02\PointsAverage\obj\Debug\net7.0\PointsAverage.dll
+E:\Курс\C#\SanaCSharp02\PointsAverage\obj\Debug\net7.0\refint\PointsAverage.dll
+E:\Курс\C#\SanaCSharp02\PointsAverage\obj\Debug\net7.0\PointsAverage.pdb
+E:\Курс\C#\SanaCSharp02\PointsAverage\obj\Debug\net7.0\PointsAverage.genruntimeconfig.cache
+E:\Курс\C#\SanaCSharp02\PointsAverage\obj\Debug\net7.0\ref\PointsAverage.dll

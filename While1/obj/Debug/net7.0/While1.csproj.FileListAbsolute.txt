@@ -1,0 +1,15 @@
+E:\Курс\C#\SanaCSharp02\While1\bin\Debug\net7.0\While1.exe
+E:\Курс\C#\SanaCSharp02\While1\bin\Debug\net7.0\While1.deps.json
+E:\Курс\C#\SanaCSharp02\While1\bin\Debug\net7.0\While1.runtimeconfig.json
+E:\Курс\C#\SanaCSharp02\While1\bin\Debug\net7.0\While1.dll
+E:\Курс\C#\SanaCSharp02\While1\bin\Debug\net7.0\While1.pdb
+E:\Курс\C#\SanaCSharp02\While1\obj\Debug\net7.0\While1.csproj.AssemblyReference.cache
+E:\Курс\C#\SanaCSharp02\While1\obj\Debug\net7.0\While1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Курс\C#\SanaCSharp02\While1\obj\Debug\net7.0\While1.AssemblyInfoInputs.cache
+E:\Курс\C#\SanaCSharp02\While1\obj\Debug\net7.0\While1.AssemblyInfo.cs
+E:\Курс\C#\SanaCSharp02\While1\obj\Debug\net7.0\While1.csproj.CoreCompileInputs.cache
+E:\Курс\C#\SanaCSharp02\While1\obj\Debug\net7.0\While1.dll
+E:\Курс\C#\SanaCSharp02\While1\obj\Debug\net7.0\refint\While1.dll
+E:\Курс\C#\SanaCSharp02\While1\obj\Debug\net7.0\While1.pdb
+E:\Курс\C#\SanaCSharp02\While1\obj\Debug\net7.0\While1.genruntimeconfig.cache
+E:\Курс\C#\SanaCSharp02\While1\obj\Debug\net7.0\ref\While1.dll

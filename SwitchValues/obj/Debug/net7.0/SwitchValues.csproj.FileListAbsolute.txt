@@ -1,0 +1,15 @@
+E:\Курс\C#\SanaCSharp02\SwitchValues\bin\Debug\net7.0\SwitchValues.exe
+E:\Курс\C#\SanaCSharp02\SwitchValues\bin\Debug\net7.0\SwitchValues.deps.json
+E:\Курс\C#\SanaCSharp02\SwitchValues\bin\Debug\net7.0\SwitchValues.runtimeconfig.json
+E:\Курс\C#\SanaCSharp02\SwitchValues\bin\Debug\net7.0\SwitchValues.dll
+E:\Курс\C#\SanaCSharp02\SwitchValues\bin\Debug\net7.0\SwitchValues.pdb
+E:\Курс\C#\SanaCSharp02\SwitchValues\obj\Debug\net7.0\SwitchValues.csproj.AssemblyReference.cache
+E:\Курс\C#\SanaCSharp02\SwitchValues\obj\Debug\net7.0\SwitchValues.GeneratedMSBuildEditorConfig.editorconfig
+E:\Курс\C#\SanaCSharp02\SwitchValues\obj\Debug\net7.0\SwitchValues.AssemblyInfoInputs.cache
+E:\Курс\C#\SanaCSharp02\SwitchValues\obj\Debug\net7.0\SwitchValues.AssemblyInfo.cs
+E:\Курс\C#\SanaCSharp02\SwitchValues\obj\Debug\net7.0\SwitchValues.csproj.CoreCompileInputs.cache
+E:\Курс\C#\SanaCSharp02\SwitchValues\obj\Debug\net7.0\SwitchValues.dll
+E:\Курс\C#\SanaCSharp02\SwitchValues\obj\Debug\net7.0\refint\SwitchValues.dll
+E:\Курс\C#\SanaCSharp02\SwitchValues\obj\Debug\net7.0\SwitchValues.pdb
+E:\Курс\C#\SanaCSharp02\SwitchValues\obj\Debug\net7.0\SwitchValues.genruntimeconfig.cache
+E:\Курс\C#\SanaCSharp02\SwitchValues\obj\Debug\net7.0\ref\SwitchValues.dll
