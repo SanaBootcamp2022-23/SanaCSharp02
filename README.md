@@ -7,3 +7,5 @@
 Тема: Оператори перевірки умови
 
 Завдання: https://docs.google.com/document/d/1iv6hOT5fMJ0aHB4hNIJe3tWucvU2tIDVIGNRLRAi5NM/edit#
+
+Виконала: Зощак Тетяна
