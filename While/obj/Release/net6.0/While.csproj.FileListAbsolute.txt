@@ -1,0 +1,5 @@
+C:\Users\ASUS\SanaCSharp02\While\obj\Release\net6.0\While.csproj.AssemblyReference.cache
+C:\Users\ASUS\SanaCSharp02\While\obj\Release\net6.0\While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\SanaCSharp02\While\obj\Release\net6.0\While.AssemblyInfoInputs.cache
+C:\Users\ASUS\SanaCSharp02\While\obj\Release\net6.0\While.AssemblyInfo.cs
+C:\Users\ASUS\SanaCSharp02\While\obj\Release\net6.0\While.csproj.CoreCompileInputs.cache
